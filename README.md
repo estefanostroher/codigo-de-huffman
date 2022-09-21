@@ -13,13 +13,11 @@ O algoritmo possui alguns passos, sendo:
 - Depois, percorrer
 a árvore tanto para codificar quanto para decodificar os dados.
 
-
 Execução do algoritmo:
 
 Para executar o algoritmo deve-se passar um arquivo texto como argumento na execução do programa.
 Por ex.: "./codigo_de_huffman_final nome_do_arquivo.txt"
 
-
 Este código foi realizado para um trabalho na cadeira de Organização de arquivos e dados, no qual o código origal pertence a Wagner Gaspar. Foram feitas algumas modificações no código, sendo a principal delas a alocação dinâmica de memória que não estava presente no código original.
 
-Link do chttps://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar/featured
+Link do código: https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar/featured
