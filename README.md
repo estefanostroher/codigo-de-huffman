@@ -10,13 +10,13 @@ O algoritmo possui alguns passos, sendo:
 - Saber a frequência com que cada caracter no texto se repete;
 - Criar uma lista com os caracteres digitados e quantas vezes cada um se repete;
 - Criar uma arvóre binária e agrupar os símbolos de acordo com a frequência;
-- Depois, percorrer a árvore tanto para codificar quanto para decodificar os dados.
+- Depois, percorrer
+a árvore tanto para codificar quanto para decodificar os dados.
 
 
 Execução do algoritmo:
 
 Para executar o algoritmo deve-se passar um arquivo texto como argumento na execução do programa.
-
 Por ex.: "./codigo_de_huffman_final nome_do_arquivo.txt"
 
 
