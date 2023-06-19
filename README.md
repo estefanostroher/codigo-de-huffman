@@ -20,4 +20,4 @@ Por ex.: "./codigo_de_huffman_final nome_do_arquivo.txt".
 
 Este código foi um trabalho realizado na cadeira de Organização de arquivos e dados, no qual o código original pertence a Wagner Gaspar. Foram feitas algumas modificações no código, sendo a principal delas a alocação dinâmica de memória que não estava presente no código original.
 
-Link do código: https://www.youtube.com/watch?v=o8UPZ_KDWdU&list=PLqJK4Oyr5WShtxF1Ch3Vq4b1Dzzb-WxbP&index=2
+Link do código: https://youtu.be/o8UPZ_KDWdU
